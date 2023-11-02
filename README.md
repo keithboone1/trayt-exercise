@@ -1,0 +1,1 @@
+Take-home test for Trayt Health interview process. Yes, the repo is intentionally public.
